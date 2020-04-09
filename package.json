@@ -17,6 +17,10 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
+    "peerDependencies": {
+        "react": ">= 16.x.x",
+        "styled-jsx": ">= 3.x.x"
+    },
     "devDependencies": {
         "@babel/core": "^7.3.3",
         "@babel/preset-env": "^7.3.1",
