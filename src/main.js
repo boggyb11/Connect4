@@ -3,10 +3,9 @@ import React from "react";
 import ReactDOM from "react-dom";
 // import { Grid } from "../src/components/grid.component";
 
+import { App } from "./components/App.component";
+
 ReactDOM.render(
-    <>
-        <h1>Hello, world!</h1>
-        {/* <Grid /> */}
-    </>,
+    <App />,
     document.getElementById("root")
 );
