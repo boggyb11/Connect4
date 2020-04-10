@@ -1,5 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+	box-sizing: border-box;
+
+}
+
 .GameBoard{
     background: #0074B3;
-	width: 730px;
+	position: absolute;
+	margin: 0;
+	left :50%;
+	transform: translate(-50%);
+	width: 500px;
+	height: 450px;
 	cursor: pointer;
+	border: 3px solid black;
+	padding: 10px;
+
+}
+
+.slot{
+	width: 60px;
+	height: 70px;
+	background-color: white;
+	padding: 5px;
+	border: 2px solid black;
+	border-radius: 50%;
 }

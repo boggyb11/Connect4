@@ -7,7 +7,91 @@
     var Grid = function Grid() {
       return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("h2", null, "Connect 4 Grid"), /*#__PURE__*/React.createElement("div", {
         className: "GameBoard"
-      }, "ss"));
+      }, /*#__PURE__*/React.createElement("table", null, /*#__PURE__*/React.createElement("tbody", null, /*#__PURE__*/React.createElement("tr", null, /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      })), /*#__PURE__*/React.createElement("tr", null, /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      })), /*#__PURE__*/React.createElement("tr", null, /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      })), /*#__PURE__*/React.createElement("tr", null, /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      })), /*#__PURE__*/React.createElement("tr", null, /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      })), /*#__PURE__*/React.createElement("tr", null, /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }), /*#__PURE__*/React.createElement("td", {
+        className: "slot"
+      }))))));
     };
 
     var App = function App() {
